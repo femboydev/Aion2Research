@@ -14,6 +14,7 @@ An independent Taiwan-server Brawler guide, organized for quick use during geari
 | **[Arcana Guide](ARCANA.md)** | Set plan, skill pools, roll priorities and stat targets. |
 | **[Gear and Daevanion](GEAR_DAEVANION.md)** | Stat priorities, gear sample, board unlocks and skill-node route guidance. |
 | **[English Resources for Taiwan](ENGLISH_RESOURCES.md)** | English-friendly databases, Taiwan patch sources and translated community resources. |
+| **[Community Guide Summary](PLAYER_GUIDE_SUMMARY.md)** | English notes on an older Taiwan macro/build guide and the later patch changes. |
 | **[Research Notes](RESEARCH_NOTES.md)** | Class mechanics, combat priorities, patch timeline, statistics and source methodology. |
 | **[Skill database](https://aion2.dvg.cn/en/skill_list.php?category=%E6%8B%B3%E6%98%9F)** | English skill labels and icons. |
 
