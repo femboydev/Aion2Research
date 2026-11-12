@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-B** · Taiwan server · Reviewed 12 November 2026
 
-This page is the skill reference for the [Brawler Build Sheet](BRAWLER_BUILD.md). For encounter presets see [Content Builds](CONTENT_BUILDS.md), for cards see the [Arcana Guide](ARCANA.md), and for stat progression see [Gear and Daevanion](GEAR_DAEVANION.md). The [Research Notes](RESEARCH_NOTES.md) explain evidence dates and patch history.
+This page is the skill reference for the [Brawler Build Sheet](BRAWLER_BUILD.md). For encounter presets see [Content Builds](CONTENT_BUILDS.md), for cards see the [Arcana Guide](ARCANA.md), for stat progression see [Gear and Daevanion](GEAR_DAEVANION.md), and for external references see [English Resources for Taiwan](ENGLISH_RESOURCES.md). The [Research Notes](RESEARCH_NOTES.md) explain evidence dates and patch history.
 
 > **Skill-name rule:** this guide uses the preferred English labels in the first column below. Other English databases sometimes translate the same skill differently. Use the alias column only to match another guide or database.
 

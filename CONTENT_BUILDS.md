@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-F** · Taiwan server · PvE-first · Reviewed 12 November 2026
 
-Use these as four saved presets or as a swap checklist. Skill names follow the [canonical English name list](SKILLS.md). For the key map and macro page numbers, see the [Brawler Build Sheet](BRAWLER_BUILD.md).
+Use these as four saved presets or as a swap checklist. Skill names follow the [canonical English name list](SKILLS.md). For the key map and macro page numbers, see the [Brawler Build Sheet](BRAWLER_BUILD.md); for stat and board progression, see [Gear and Daevanion](GEAR_DAEVANION.md).
 
 ## Evidence Labels
 

@@ -25,6 +25,7 @@ This page records the source hierarchy, patch history and data limits behind the
 | [Skills and Specializations](SKILLS.md) | Skill names, aliases, level priorities, stigma options and specialization updates. |
 | [Arcana Guide](ARCANA.md) | Card types, skill pools, roll priorities and set direction. |
 | [Gear and Daevanion](GEAR_DAEVANION.md) | Stats, sample equipment and class-specific Daevanion node priorities. |
+| [English Resources for Taiwan](ENGLISH_RESOURCES.md) | English-language and translated Taiwan-specific sources. |
 | [Research Notes](RESEARCH_NOTES.md) | Source confidence, patch history and data caveats. |
 
 ## Source Hierarchy

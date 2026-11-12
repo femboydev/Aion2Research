@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-C** · Taiwan server · Reviewed 12 November 2026
 
-This is the Arcana companion to the [Brawler Build Sheet](BRAWLER_BUILD.md). Skill names follow [Skills and Specializations](SKILLS.md). For gear progression see [Gear and Daevanion](GEAR_DAEVANION.md); for boss, AoE, survival and PvP swaps see [Content Builds](CONTENT_BUILDS.md).
+This is the Arcana companion to the [Brawler Build Sheet](BRAWLER_BUILD.md). Skill names follow [Skills and Specializations](SKILLS.md). For gear progression see [Gear and Daevanion](GEAR_DAEVANION.md), for encounter swaps see [Content Builds](CONTENT_BUILDS.md), and for the source directory see [English Resources for Taiwan](ENGLISH_RESOURCES.md).
 
 > **Short answer:** build toward four Punishment set pieces, then choose two flexible cards for better Brawler skill rolls or survival. Do not sacrifice strong skill options just to force a set.
 

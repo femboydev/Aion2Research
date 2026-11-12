@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-E** · Taiwan server · Research reference: 7 October 2026 character data, plus Taiwan updates through 12 November
 
-This page adds gear and Daevanion guidance to the [Brawler Build Sheet](BRAWLER_BUILD.md). Preferred skill names follow [Skills and Specializations](SKILLS.md). Gear and build statistics below are snapshots, not current-market best-in-slot guarantees.
+This page adds gear and Daevanion guidance to the [Brawler Build Sheet](BRAWLER_BUILD.md). Preferred skill names follow [Skills and Specializations](SKILLS.md). For boss, AoE, survival and PvP swaps see [Content Builds](CONTENT_BUILDS.md). Gear and build statistics below are snapshots, not current-market best-in-slot guarantees.
 
 ## Quick Progression
 
