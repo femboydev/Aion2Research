@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1040" viewBox="0 0 1440 1040" role="img" aria-labelledby="title desc">
+  <title id="title">FemboyDev Brawler macro preset map</title>
+  <desc id="desc">Macro presets one through five for Brawler: boss filler, buff preparation, area attacks, an optional utility slot and a separate PvP setup. Burst and defense remain manual.</desc>
+  <rect width="1440" height="1040" rx="28" fill="#f7f2fb"/>
+  <rect x="24" y="24" width="1392" height="992" rx="22" fill="none" stroke="#d9cbe7" stroke-width="2"/>
+  <text x="64" y="78" fill="#765395" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">FEMBOYDEV  /  MACRO BLUEPRINT</text>
+  <text x="64" y="137" fill="#2b2034" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750">FIVE PRESETS, THREE TO USE</text>
+  <text x="64" y="174" fill="#57465f" font-family="Segoe UI, Arial, sans-serif" font-size="20">Macro slots 1–5 shown in your skill screen · keep timing-sensitive actions manual</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="64" y="220" width="620" height="205" rx="18" fill="#fff" stroke="#a987d5" stroke-width="3"/>
+    <rect x="88" y="244" width="58" height="58" rx="12" fill="#765395"/>
+    <text x="107" y="282" fill="#fff" font-size="26" font-weight="700">1</text>
+    <text x="166" y="273" fill="#2b2034" font-size="25" font-weight="700">BOSS FILLER · HOLD</text>
+    <text x="96" y="341" fill="#57465f" font-size="20">Flurry → Roundhouse → Chain Fist</text>
+    <text x="96" y="375" fill="#57465f" font-size="18">Optional: Typhoon Flurry when ready and useful</text>
+    <text x="96" y="405" fill="#765395" font-size="16" font-weight="700">BIND TO E IF FREE, OTHERWISE AN UNUSED MOUSE BUTTON</text>
+
+    <rect x="716" y="220" width="660" height="205" rx="18" fill="#fff" stroke="#e49bb9" stroke-width="3"/>
+    <rect x="740" y="244" width="58" height="58" rx="12" fill="#d88daa"/>
+    <text x="759" y="282" fill="#fff" font-size="26" font-weight="700">2</text>
+    <text x="818" y="273" fill="#2b2034" font-size="25" font-weight="700">BUFF PREP · TAP ONCE</text>
+    <text x="748" y="341" fill="#57465f" font-size="20">Ferocity → Phantom → Pulverize</text>
+    <text x="748" y="375" fill="#57465f" font-size="18">Then cast Rampage manually to choose the Martial Arts timing.</text>
+    <text x="748" y="405" fill="#a65373" font-size="16" font-weight="700">IF SKILLS DO NOT SKIP COOLDOWNS, BIND BUFFS SEPARATELY</text>
+
+    <rect x="64" y="451" width="620" height="190" rx="18" fill="#fff" stroke="#d9cbe7" stroke-width="2"/>
+    <rect x="88" y="475" width="58" height="58" rx="12" fill="#765395"/>
+    <text x="107" y="513" fill="#fff" font-size="26" font-weight="700">3</text>
+    <text x="166" y="504" fill="#2b2034" font-size="25" font-weight="700">AREA PACKS · HOLD</text>
+    <text x="96" y="571" fill="#57465f" font-size="19">Ground Slam → Typhoon Flurry</text>
+    <text x="96" y="605" fill="#57465f" font-size="19">Surging Cleave → Flurry / Roundhouse</text>
+
+    <rect x="716" y="451" width="310" height="190" rx="18" fill="#fff" stroke="#d9cbe7" stroke-width="2"/>
+    <rect x="740" y="475" width="58" height="58" rx="12" fill="#a987d5"/>
+    <text x="759" y="513" fill="#fff" font-size="26" font-weight="700">4</text>
+    <text x="818" y="504" fill="#2b2034" font-size="22" font-weight="700">UTILITY</text>
+    <text x="748" y="571" fill="#57465f" font-size="18">Leave blank or use a non-critical</text>
+    <text x="748" y="601" fill="#57465f" font-size="18">content-specific sequence.</text>
+
+    <rect x="1058" y="451" width="318" height="190" rx="18" fill="#fff" stroke="#d9cbe7" stroke-width="2"/>
+    <rect x="1082" y="475" width="58" height="58" rx="12" fill="#a987d5"/>
+    <text x="1101" y="513" fill="#fff" font-size="26" font-weight="700">5</text>
+    <text x="1160" y="504" fill="#2b2034" font-size="22" font-weight="700">PVP / ALT</text>
+    <text x="1090" y="571" fill="#57465f" font-size="18">Keep a separate preset instead</text>
+    <text x="1090" y="601" fill="#57465f" font-size="18">of mixing PvP skills into PvE.</text>
+  </g>
+
+  <text x="64" y="700" fill="#765395" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">MANUAL BURST SEQUENCE</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="64" y="724" width="266" height="116" rx="16" fill="#eee4f6"/>
+    <text x="88" y="761" fill="#765395" font-size="15" font-weight="700">01 · BUFF</text>
+    <text x="88" y="800" fill="#2b2034" font-size="20" font-weight="700">Ferocity + Phantom</text>
+    <text x="88" y="826" fill="#2b2034" font-size="20" font-weight="700">+ Pulverize</text>
+
+    <path d="M340 782h38" stroke="#a987d5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M369 772l12 10-12 10" fill="none" stroke="#a987d5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="392" y="724" width="230" height="116" rx="16" fill="#eee4f6"/>
+    <text x="416" y="761" fill="#765395" font-size="15" font-weight="700">02 · START</text>
+    <text x="416" y="800" fill="#2b2034" font-size="22" font-weight="700">Rampage</text>
+    <text x="416" y="826" fill="#57465f" font-size="16">Manual, when uptime is good</text>
+
+    <path d="M632 782h38" stroke="#a987d5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M661 772l12 10-12 10" fill="none" stroke="#a987d5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="684" y="724" width="250" height="116" rx="16" fill="#f7eaf1"/>
+    <text x="708" y="761" fill="#a65373" font-size="15" font-weight="700">03 · SHORT WINDOW</text>
+    <text x="708" y="800" fill="#2b2034" font-size="22" font-weight="700">Martial Arts</text>
+    <text x="708" y="826" fill="#57465f" font-size="16">2-second burst setup</text>
+
+    <path d="M944 782h38" stroke="#d88daa" stroke-width="4" stroke-linecap="round"/>
+    <path d="M973 772l12 10-12 10" fill="none" stroke="#d88daa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="996" y="724" width="380" height="116" rx="16" fill="#f7eaf1" stroke="#e49bb9" stroke-width="2"/>
+    <text x="1020" y="761" fill="#a65373" font-size="15" font-weight="700">04 · HIT MANUALLY</text>
+    <text x="1020" y="800" fill="#2b2034" font-size="22" font-weight="700">Ascending Blow OR</text>
+    <text x="1020" y="826" fill="#2b2034" font-size="22" font-weight="700">Exploding Fist</text>
+  </g>
+
+  <rect x="64" y="879" width="1312" height="90" rx="16" fill="#4a355d"/>
+  <text x="90" y="916" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">KEEP OUT OF HOLD MACROS</text>
+  <text x="90" y="948" fill="#f4dbe7" font-family="Segoe UI, Arial, sans-serif" font-size="17">Rampage · Ascending Blow · Exploding Fist · Focused Block · Shoulder Tackle · Flash Step</text>
+</svg>

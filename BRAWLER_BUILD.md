@@ -148,6 +148,10 @@ The screenshot shows a macro panel with presets **1–5**, plus a hotbar using n
 
 Keep **Blood Flow Block**, **Gale Strike** and **Ground Slam** on nearby secondary binds. If you use a controller or different key layout, preserve the same principle: filler on the held macro, burst and defense on direct inputs.
 
+![FemboyDev Brawler hotbar map showing mouse attacks, keys 1–4, Q/R/T/F, movement binds and a free macro bind](assets/brawler-hotbar-map.svg)
+
+*The diagram follows the key style visible in your screenshot. Bind Macro Preset 1 to E only if E is free; otherwise use an unused mouse side button or another comfortable key.*
+
 ### Macro Preset Plan
 
 The macro panel in your screenshot has five numbered presets. Use them like this; unused presets can stay empty.
@@ -159,6 +163,8 @@ The macro panel in your screenshot has five numbered presets. Use them like this
 | **3** | AoE / Packs | Hold only while enemies are grouped | Ground Slam → Typhoon Flurry → Surging Cleave → Flurry / Roundhouse |
 | **4** | Utility | Optional; normally leave unused | Do not automate Focused Block or movement. Keep those on direct keys. |
 | **5** | Alternate Build | Optional PvP or survival preset | Swap to a separate manual setup rather than mixing it into the boss macro. |
+
+![FemboyDev Brawler macro map showing presets 1–5 and the manual Martial Arts burst sequence](assets/brawler-macro-map.svg)
 
 ### Macro Preset 1: Boss Filler
 
