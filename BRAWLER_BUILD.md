@@ -126,17 +126,41 @@ These are player-tested starting selections. Recheck the Taiwan skill tooltip be
 
 ## Hotbar and Macro
 
-Arrange the keys to fit your hands. Keep skills that need timing separate from the repeating filler sequence.
+The screenshot shows a macro panel with presets **1–5**, plus a hotbar using number keys and Q/E-style binds. The layout below uses those familiar keys as an example. Keep your own movement and interact keys if they differ.
 
-| Control group | Put these skills here |
-|---|---|
-| **Filler macro** | Flurry, Roundhouse, Chain Fist, optional Typhoon Flurry |
-| **Burst controls** | Ferocity, Phantom, Pulverize, Rampage, Ascending Blow, Exploding Fist |
-| **Defense** | Focused Block, Defiance, Blood Flow Block |
-| **Movement** | Shoulder Tackle, Gale Strike, Flash Step |
-| **Area damage** | Ground Slam, Typhoon Flurry, Surging Cleave |
+### Suggested Hotbar
 
-### Macro A: Hold-to-Attack Filler
+| Input | Put this here | Why |
+|---|---|---|
+| **Left mouse button** | Flurry | Basic attack and filler. |
+| **Right mouse button** | Roundhouse | Pair with Flurry for the basic cycle. |
+| **1** | Chain Fist | Frequent damage skill, easy to reach. |
+| **2** | Exploding Fist | Manual Rage recovery and Martial Arts burst option. |
+| **3** | Rampage | Keep manual so you choose when to start its damage window. |
+| **4** | Ascending Blow | Keep manual for Martial Arts timing. |
+| **Q** | Ferocity | Quick access to the main Rage-related buff. |
+| **R** | Phantom | Buff setup. |
+| **T** | Pulverize | Buff setup. |
+| **F** | Focused Block | Must be manually timed. |
+| **Mouse side button 1** | Shoulder Tackle | Approach or reposition; a hit can trigger Martial Arts. |
+| **Mouse side button 2** | Defiance or Flash Step | Emergency control break or mobility. |
+| **E** | Macro Preset 1: Boss Filler | Convenient hold-to-attack key; use another comfortable key if E is occupied. |
+
+Keep **Blood Flow Block**, **Gale Strike** and **Ground Slam** on nearby secondary binds. If you use a controller or different key layout, preserve the same principle: filler on the held macro, burst and defense on direct inputs.
+
+### Macro Preset Plan
+
+The macro panel in your screenshot has five numbered presets. Use them like this; unused presets can stay empty.
+
+| Macro preset | Name it | Bind / use | Contents |
+|---:|---|---|---|
+| **1** | Boss Filler | Hold on E or a mouse side button | Flurry → Roundhouse → Chain Fist → optional Typhoon Flurry |
+| **2** | Buff Prep | Tap once before the burst | Ferocity → Phantom → Pulverize. Cast Rampage manually afterward. |
+| **3** | AoE / Packs | Hold only while enemies are grouped | Ground Slam → Typhoon Flurry → Surging Cleave → Flurry / Roundhouse |
+| **4** | Utility | Optional; normally leave unused | Do not automate Focused Block or movement. Keep those on direct keys. |
+| **5** | Alternate Build | Optional PvP or survival preset | Swap to a separate manual setup rather than mixing it into the boss macro. |
+
+### Macro Preset 1: Boss Filler
 
 Use the in-game priority or repeating macro system. Do not set ultra-short timings copied from old launch macros.
 
@@ -151,6 +175,18 @@ Typhoon Flurry, when ready and appropriate
 
 Keep Rampage, Ferocity, Phantom, Pulverize, Exploding Fist, Ascending Blow, Focused Block and movement skills out of this unattended loop. The goal is a filler cycle that keeps attacking without spending your burst or defensive actions at the wrong time.
 
+### Macro Preset 2: Buff Prep
+
+Optional one-shot sequence:
+
+```text
+Ferocity
+Phantom
+Pulverize
+```
+
+Tap this before your burst. Cast **Rampage** manually after the buffs are active so you control when Martial Arts begins. If the macro system does not skip skills that are unavailable, bind these buffs separately instead of chaining them.
+
 ### Manual Opener and Burst
 
 ```text
@@ -163,7 +199,7 @@ Continue: Chain Fist → Flurry / Roundhouse filler
 
 If Shoulder Tackle is needed to close distance, a hit can trigger a separate short Martial Arts window. Follow it with the best attack that can land before the effect expires.
 
-### Macro B: Area Filler
+### Macro Preset 3: Area Filler
 
 ```text
 Ground Slam
@@ -183,6 +219,8 @@ Use against grouped enemies. Remove movement or area skills from the sequence if
 - **Shoulder Tackle, Gale Strike and Flash Step:** use for real movement needs, not automatic cooldown cycling.
 
 > The August 2026 minimum skill-cancellation update makes very fast legacy macros unreliable. Use in-game Combat Support, test the sequence on a target dummy, and adjust only after observing which skills actually cast.
+
+> **Important:** Do not put Rampage in the hold-to-attack loop. Do not put Focused Block, Shoulder Tackle or Flash Step in an unattended repeat macro. The macro should fill downtime, not decide when your burst or defense happens.
 
 ## Combat Loop
 
