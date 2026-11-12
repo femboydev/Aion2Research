@@ -9,8 +9,10 @@ An independent Taiwan-server Brawler guide, organized for quick use during geari
 | Start here | What you get |
 |---|---|
 | **[Brawler Build Sheet](BRAWLER_BUILD.md)** | Quick PvE setup, hotbar diagram and macro presets. |
+| **[Content Builds](CONTENT_BUILDS.md)** | Boss, AoE, solo-survival and PvP profiles with swap rules. |
 | **[Skills and Specializations](SKILLS.md)** | Preferred English names, leveling order, stigma loadout and current specialization notes. |
 | **[Arcana Guide](ARCANA.md)** | Set plan, skill pools, roll priorities and stat targets. |
+| **[Gear and Daevanion](GEAR_DAEVANION.md)** | Stat priorities, gear sample, board unlocks and skill-node route guidance. |
 | **[Research Notes](RESEARCH_NOTES.md)** | Class mechanics, combat priorities, patch timeline, statistics and source methodology. |
 | **[Skill database](https://aion2.dvg.cn/en/skill_list.php?category=%E6%8B%B3%E6%98%9F)** | English skill labels and icons. |
 

@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-B** · Taiwan server · Reviewed 12 November 2026
 
-This page is the skill reference for the [Brawler Build Sheet](BRAWLER_BUILD.md). For cards and set bonuses, see the [Arcana Guide](ARCANA.md). The [Research Notes](RESEARCH_NOTES.md) explain evidence dates and patch history.
+This page is the skill reference for the [Brawler Build Sheet](BRAWLER_BUILD.md). For encounter presets see [Content Builds](CONTENT_BUILDS.md), for cards see the [Arcana Guide](ARCANA.md), and for stat progression see [Gear and Daevanion](GEAR_DAEVANION.md). The [Research Notes](RESEARCH_NOTES.md) explain evidence dates and patch history.
 
 > **Skill-name rule:** this guide uses the preferred English labels in the first column below. Other English databases sometimes translate the same skill differently. Use the alias column only to match another guide or database.
 
@@ -25,7 +25,7 @@ This page is the skill reference for the [Brawler Build Sheet](BRAWLER_BUILD.md)
 | Flurry | Combo Strike |
 | Roundhouse | Flying Kick |
 | Gale Strike | Whirlwind |
-| Ground Slam | Smite Ground |
+| Ground Slam | Ground Smash; Smite Ground |
 | Spinning Kick | Sweeping Kick |
 | Exploding Fist | Explosive Fist |
 | Ascending Blow | Ascending Strike |
@@ -33,6 +33,8 @@ This page is the skill reference for the [Brawler Build Sheet](BRAWLER_BUILD.md)
 | Typhoon Flurry | Typhoon Barrage |
 | Ferocity | Fury |
 | Surging Cleave | Air Rending Slash |
+| Phantom | Clone |
+| Discharge Energy | Fist Aura Release |
 | Pulverize | Shatter |
 | Blood Flow Block | Sever Bloodstream |
 | Dominance | Intimidation |

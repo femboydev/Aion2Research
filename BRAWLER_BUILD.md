@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-A** · Taiwan server · Reviewed 12 November 2026
 
-> **Quick-copy page:** skill targets, specialization starting points, stigma picks, Arcana and macro layout. Open [Skills and Specializations](SKILLS.md), the [Arcana Guide](ARCANA.md), or the [Research Notes](RESEARCH_NOTES.md) for detail.
+> **Quick-copy page:** skill targets, specialization starting points, stigma picks, Arcana and macro layout. Open [Content Builds](CONTENT_BUILDS.md) for encounter swaps, [Skills and Specializations](SKILLS.md) for skill details, [Arcana Guide](ARCANA.md) for card choices, or [Gear and Daevanion](GEAR_DAEVANION.md) for progression.
 
 **Patch status:** Taiwan's 11 November update changed Rampage and several specializations. This page reflects those changes. Older guides may show obsolete cooldown and macro advice.
 
@@ -260,7 +260,7 @@ flowchart LR
 
 ## Full Research and Sources
 
-For the complete reference set, see [Skills and Specializations](SKILLS.md), the [Arcana Guide](ARCANA.md), and the [Research Notes](RESEARCH_NOTES.md). Return to the [repository home](README.md).
+For the complete reference set, see [Content Builds](CONTENT_BUILDS.md), [Skills and Specializations](SKILLS.md), the [Arcana Guide](ARCANA.md), [Gear and Daevanion](GEAR_DAEVANION.md), and the [Research Notes](RESEARCH_NOTES.md). Return to the [repository home](README.md).
 
 - [Official Taiwan skill guide](https://tw.ncsoft.com/aion2/guidebook/view?title=%E6%8B%B3%E6%98%9F%E6%8A%80%E8%83%BD)
 - [Official Taiwan update, 11 November 2026](https://tw.ncsoft.com/aion2/board/update/view?articleId=6af393e028c745263507304c)

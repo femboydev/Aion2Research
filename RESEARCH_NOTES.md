@@ -21,8 +21,10 @@ This page records the source hierarchy, patch history and data limits behind the
 |---|---|
 | [Repository home](README.md) | Short overview and entry points. |
 | [Brawler Build Sheet](BRAWLER_BUILD.md) | Copyable PvE setup, stigma picks, hotbar layout and macros. |
+| [Content Builds](CONTENT_BUILDS.md) | Boss, AoE, solo-survival and PvP variants. |
 | [Skills and Specializations](SKILLS.md) | Skill names, aliases, level priorities, stigma options and specialization updates. |
 | [Arcana Guide](ARCANA.md) | Card types, skill pools, roll priorities and set direction. |
+| [Gear and Daevanion](GEAR_DAEVANION.md) | Stats, sample equipment and class-specific Daevanion node priorities. |
 | [Research Notes](RESEARCH_NOTES.md) | Source confidence, patch history and data caveats. |
 
 ## Source Hierarchy
