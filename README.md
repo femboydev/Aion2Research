@@ -8,8 +8,10 @@ An independent Taiwan-server Brawler guide, organized for quick use during geari
 
 | Start here | What you get |
 |---|---|
-| **[Brawler Build Sheet](BRAWLER_BUILD.md)** | Hotbar layout, skill targets, stigma picks, Arcana direction and macro presets. |
-| **[Full Research Notes](RESEARCH_NOTES.md)** | Skill reference, detailed progression, specialization caveats, build statistics and source notes. |
+| **[Brawler Build Sheet](BRAWLER_BUILD.md)** | Quick PvE setup, hotbar diagram and macro presets. |
+| **[Skills and Specializations](SKILLS.md)** | Preferred English names, leveling order, stigma loadout and current specialization notes. |
+| **[Arcana Guide](ARCANA.md)** | Set plan, skill pools, roll priorities and stat targets. |
+| **[Research Notes](RESEARCH_NOTES.md)** | Class mechanics, combat priorities, patch timeline, statistics and source methodology. |
 | **[Skill database](https://aion2.dvg.cn/en/skill_list.php?category=%E6%8B%B3%E6%98%9F)** | English skill labels and icons. |
 
 ## Quick Setup
@@ -49,5 +51,8 @@ The build sheet includes the full key-by-key recommendation and macro preset not
 ## Source and Version Notes
 
 Official Taiwan patch notes take priority for current effects. The detailed guide separates those notes from player-tested builds and October statistics, which predate the 11 November changes.
+
+- [Taiwan 11 November update](https://tw.ncsoft.com/aion2/board/update/view?articleId=6af393e028c745263507304c) · Current Rampage, Martial Arts and Focused Block changes.
+- [Taiwan Brawler skill database](https://aion2.dvg.cn/en/skill_list.php?category=%E6%8B%B3%E6%98%9F) · English skill labels and icons.
 
 **FemboyDev Field Notes 001** · Warm-paper, plum and orchid visual identity · Not affiliated with NCSOFT.

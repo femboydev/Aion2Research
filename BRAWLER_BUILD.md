@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-A** · Taiwan server · Reviewed 12 November 2026
 
-> **Quick-copy page:** skill targets, specializations, Arcana, stigma skills and macro layout. For reasoning, full skill notes and source links, see the [research notes](RESEARCH_NOTES.md).
+> **Quick-copy page:** skill targets, specialization starting points, stigma picks, Arcana and macro layout. Open [Skills and Specializations](SKILLS.md), the [Arcana Guide](ARCANA.md), or the [Research Notes](RESEARCH_NOTES.md) for detail.
 
 **Patch status:** Taiwan's 11 November update changed Rampage and several specializations. This page reflects those changes. Older guides may show obsolete cooldown and macro advice.
 
@@ -28,6 +28,8 @@
 | Focused Block can reward manual timing | Its current block window is only one second |
 
 ## Skill Setup
+
+For the complete roster, canonical skill names, level system and patch-adjusted specialty notes, see [Skills and Specializations](SKILLS.md).
 
 ### Mastery Skill Targets
 
@@ -55,17 +57,17 @@ The tracker sampled 1,080 Taiwan Brawlers using official character data collecte
 
 | Skill | Average level |
 |---|---:|
-| Dominance / Intimidation | 24.9 |
-| Ferocity / Fury | 24.8 |
+| Dominance | 24.9 |
+| Ferocity | 24.8 |
 | Rampage Amplification | 24.3 |
 | Phantom | 23.0 |
-| Pulverize / Shatter | 22.8 |
+| Pulverize | 22.8 |
 | Impact Hit | 20.5 |
 | Rampage | 20.1 |
 | Ascending Blow | 19.4 |
 | Roundhouse | 19.4 |
 | Chain Fist | 19.3 |
-| Massive Rage / Colossal Rage | 18.8 |
+| Massive Rage | 18.8 |
 | Exploding Fist | 18.7 |
 | Flurry | 18.1 |
 
@@ -103,6 +105,8 @@ These are player-tested starting selections. Recheck the Taiwan skill tooltip be
 | Spinning Kick | 2 / 4 | Tested boss-damage choice |
 
 ## Arcana Setup
+
+For all Arcana pools, the card sample and full roll advice, see the [Arcana Guide](ARCANA.md).
 
 | Slot goal | Recommendation |
 |---|---|
@@ -256,7 +260,7 @@ flowchart LR
 
 ## Full Research and Sources
 
-For skill descriptions, the full sample tables, longer patch history and research caveats, see the [full research notes](RESEARCH_NOTES.md) or return to the [repository home](README.md).
+For the complete reference set, see [Skills and Specializations](SKILLS.md), the [Arcana Guide](ARCANA.md), and the [Research Notes](RESEARCH_NOTES.md). Return to the [repository home](README.md).
 
 - [Official Taiwan skill guide](https://tw.ncsoft.com/aion2/guidebook/view?title=%E6%8B%B3%E6%98%9F%E6%8A%80%E8%83%BD)
 - [Official Taiwan update, 11 November 2026](https://tw.ncsoft.com/aion2/board/update/view?articleId=6af393e028c745263507304c)
