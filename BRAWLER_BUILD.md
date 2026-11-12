@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-A** · Taiwan server · Reviewed 12 November 2026
 
-> **Quick-copy page:** skill targets, specializations, Arcana, stigma skills and macro layout. For reasoning, full skill notes and source links, see the [complete guide](README.md).
+> **Quick-copy page:** skill targets, specializations, Arcana, stigma skills and macro layout. For reasoning, full skill notes and source links, see the [research notes](RESEARCH_NOTES.md).
 
 **Patch status:** Taiwan's 11 November update changed Rampage and several specializations. This page reflects those changes. Older guides may show obsolete cooldown and macro advice.
 
@@ -35,14 +35,14 @@ Use these as practical targets, not a rigid leveling law. Your displayed levels 
 
 | Order | Skill | Target | Priority reason |
 |---:|---|---:|---|
-| 1 | ![Ascending Blow icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/d1/ICON_GT_SKILL_016.png) **Ascending Blow** | 20 | Main burst attack; use during Martial Arts |
-| 2 | ![Exploding Fist icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/22/ICON_GT_SKILL_020.png) **Exploding Fist** | 20 | Damage plus Rage recovery; also benefits during Martial Arts |
-| 3 | ![Rampage icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/61/ICON_GT_SKILL_013.png) **Rampage** | 20 | Main combat state and current Martial Arts trigger |
-| 4 | ![Chain Fist icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/86/ICON_GT_SKILL_042.png) **Chain Fist** | 20 | Frequent high-priority damage skill |
-| 5 | ![Flurry icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/97/ICON_GT_SKILL_001.png) **Flurry** | 16 → 20 | Basic attack and filler cycle |
-| 6 | ![Roundhouse icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/5d/ICON_GT_SKILL_004.png) **Roundhouse** | 16 → 20 | Basic attack and filler cycle |
-| 7 | ![Ferocity icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/0c/ICON_GT_SKILL_028.png) **Ferocity** | 16+, then improve | Rage and damage-cycle support |
-| 8 | ![Phantom icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/2f/ICON_GT_SKILL_033.png) **Phantom**, ![Pulverize icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/d5/ICON_GT_SKILL_031.png) **Pulverize** | 16+, then improve | Commonly used offensive setup skills |
+| 1 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/d1/ICON_GT_SKILL_016.png" alt="Ascending Blow" width="28" height="28"> **Ascending Blow** | 20 | Main burst attack; use during Martial Arts |
+| 2 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/22/ICON_GT_SKILL_020.png" alt="Exploding Fist" width="28" height="28"> **Exploding Fist** | 20 | Damage plus Rage recovery; also benefits during Martial Arts |
+| 3 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/61/ICON_GT_SKILL_013.png" alt="Rampage" width="28" height="28"> **Rampage** | 20 | Main combat state and current Martial Arts trigger |
+| 4 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/86/ICON_GT_SKILL_042.png" alt="Chain Fist" width="28" height="28"> **Chain Fist** | 20 | Frequent high-priority damage skill |
+| 5 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/97/ICON_GT_SKILL_001.png" alt="Flurry" width="28" height="28"> **Flurry** | 16 → 20 | Basic attack and filler cycle |
+| 6 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/5d/ICON_GT_SKILL_004.png" alt="Roundhouse" width="28" height="28"> **Roundhouse** | 16 → 20 | Basic attack and filler cycle |
+| 7 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/0c/ICON_GT_SKILL_028.png" alt="Ferocity" width="28" height="28"> **Ferocity** | 16+, then improve | Rage and damage-cycle support |
+| 8 | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/2f/ICON_GT_SKILL_033.png" alt="Phantom" width="28" height="28"> **Phantom**, <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/d5/ICON_GT_SKILL_031.png" alt="Pulverize" width="28" height="28"> **Pulverize** | 16+, then improve | Commonly used offensive setup skills |
 
 **Passives to prioritize:** Dominance, Rampage Amplification, Impact Hit and Frontal Breakthrough. Raise Massive Rage sooner if Rage sustain is the problem.
 
@@ -77,12 +77,12 @@ Taiwan's Chapter 1 update raised stigma skill levels to 25 and increased the num
 
 | Slot role | Stigma skill | Use |
 |---|---|---|
-| Core | ![Ferocity icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/0c/ICON_GT_SKILL_028.png) **Ferocity** | High-use damage and Rage-cycle skill |
-| Core | ![Phantom icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/2f/ICON_GT_SKILL_033.png) **Phantom** | High-use offensive skill |
-| Core | ![Pulverize icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/d5/ICON_GT_SKILL_031.png) **Pulverize** | High-use offensive skill |
-| Flex damage | ![Surging Cleave icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/9d/ICON_GT_SKILL_029.png) **Surging Cleave** | Commonly equipped damage option |
-| Flex damage | ![Discharge Energy icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/b4/ICON_GT_SKILL_039.png) **Discharge Energy** | Commonly equipped damage option |
-| Flex survival | ![Focused Block icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/f6/ICON_GT_SKILL_035.png) **Focused Block** or ![Blood Flow Block icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/59/ICON_GT_SKILL_032.png) **Blood Flow Block** | Choose block utility or recovery for the encounter |
+| Core | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/0c/ICON_GT_SKILL_028.png" alt="Ferocity" width="28" height="28"> **Ferocity** | High-use damage and Rage-cycle skill |
+| Core | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/2f/ICON_GT_SKILL_033.png" alt="Phantom" width="28" height="28"> **Phantom** | High-use offensive skill |
+| Core | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/d5/ICON_GT_SKILL_031.png" alt="Pulverize" width="28" height="28"> **Pulverize** | High-use offensive skill |
+| Flex damage | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/9d/ICON_GT_SKILL_029.png" alt="Surging Cleave" width="28" height="28"> **Surging Cleave** | Commonly equipped damage option |
+| Flex damage | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/b4/ICON_GT_SKILL_039.png" alt="Discharge Energy" width="28" height="28"> **Discharge Energy** | Commonly equipped damage option |
+| Flex survival | <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/f6/ICON_GT_SKILL_035.png" alt="Focused Block" width="28" height="28"> **Focused Block** or <img src="https://aion2.dvg.cn/dbsource/tw/125/images/skills/59/ICON_GT_SKILL_032.png" alt="Blood Flow Block" width="28" height="28"> **Blood Flow Block** | Choose block utility or recovery for the encounter |
 
 **Stigma leveling:** raise the three core damage choices first. Take the primary trio toward level 20, then improve the skills you actually keep equipped. Raise a flex defensive stigma when difficult content makes survival more valuable than another damage skill.
 
@@ -256,7 +256,7 @@ flowchart LR
 
 ## Full Research and Sources
 
-For skill descriptions, the full sample tables, longer patch history and research caveats, see the [complete FemboyDev guide](README.md).
+For skill descriptions, the full sample tables, longer patch history and research caveats, see the [full research notes](RESEARCH_NOTES.md) or return to the [repository home](README.md).
 
 - [Official Taiwan skill guide](https://tw.ncsoft.com/aion2/guidebook/view?title=%E6%8B%B3%E6%98%9F%E6%8A%80%E8%83%BD)
 - [Official Taiwan update, 11 November 2026](https://tw.ncsoft.com/aion2/board/update/view?articleId=6af393e028c745263507304c)
