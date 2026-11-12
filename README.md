@@ -6,6 +6,8 @@
 
 An independent, English-language player guide to the Brawler: skill priorities, specialization choices, Arcana, rotations and practical in-game macro templates. It is not an official NCSOFT guide.
 
+**Want the compact class-page layout?** Open the [Brawler Build Sheet](BRAWLER_BUILD.md).
+
 Skill names use English-language AION 2 database translations. Some databases use different English names for the same skill; common aliases are listed where useful. The Taiwan client may display localized names.
 
 > **Patch warning:** Taiwan received a major Brawler update on 11 November 2026. Older player builds are still useful for understanding the class, but several specialization effects and macro assumptions changed. The current-patch corrections are called out below.
