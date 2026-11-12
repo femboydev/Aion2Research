@@ -6,7 +6,7 @@
 
 English Brawler guides are scarce because Taiwan and Korea received classes and updates on a different schedule from the global launch. The most useful approach is to combine Taiwan's official patch notes with English databases that let you select Taiwan data, then use translated player discussions for rotation ideas.
 
-**Related guides:** [Build Sheet](BRAWLER_BUILD.md) · [Skills](SKILLS.md) · [Arcana](ARCANA.md) · [Gear and Daevanion](GEAR_DAEVANION.md) · [Content Builds](CONTENT_BUILDS.md) · [Research Notes](RESEARCH_NOTES.md)
+**Related guides:** [Build Sheet](BRAWLER_BUILD.md) · [Skills](SKILLS.md) · [Arcana](ARCANA.md) · [Gear and Daevanion](GEAR_DAEVANION.md) · [Daevanion Selection Grid](DAEVANION_GRID.md) · [Content Builds](CONTENT_BUILDS.md) · [Research Notes](RESEARCH_NOTES.md)
 
 ## Best Starting Toolkit
 

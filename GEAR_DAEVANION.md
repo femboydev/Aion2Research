@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-E** · Taiwan server · Research reference: 7 October 2026 character data, plus Taiwan updates through 12 November
 
-This page adds gear and Daevanion guidance to the [Brawler Build Sheet](BRAWLER_BUILD.md). Preferred skill names follow [Skills and Specializations](SKILLS.md). For boss, AoE, survival and PvP swaps see [Content Builds](CONTENT_BUILDS.md). Gear and build statistics below are snapshots, not current-market best-in-slot guarantees.
+This page adds gear and Daevanion guidance to the [Brawler Build Sheet](BRAWLER_BUILD.md). Preferred skill names follow [Skills and Specializations](SKILLS.md). Use the [Daevanion Selection Grid](DAEVANION_GRID.md) for marked node targets; for boss, AoE, survival and PvP swaps see [Content Builds](CONTENT_BUILDS.md). Gear and build statistics below are snapshots, not current-market best-in-slot guarantees.
 
 ## Quick Progression
 
@@ -103,29 +103,11 @@ Board unlock levels, themes and Brawler node contents are from the [Brawler Daev
 
 ### Skill-node priority
 
-On the first four boards, prioritize a short route to skill levels for the skills you actually use. Brawler boards contain nodes for several of these skills:
-
-| Board | Useful Brawler skill / passive nodes listed in the database |
-|---|---|
-| **Nezekan** | Chain Fist, Rampage, Exploding Fist, Roundhouse, Flurry, Ascending Blow, Typhoon Flurry, Dominance, Rampage Amplification |
-| **Zikel** | Typhoon Flurry, Ascending Blow, Flurry, Rampage, Roundhouse, Gale Strike, Exploding Fist, Massive Rage, Impact Hit |
-| **Vaizel** | Typhoon Flurry, Chain Fist, Rampage, Flurry, Exploding Fist, Ascending Blow, Frontal Breakthrough, Massive Rage |
-| **Triniel** | Roundhouse, Gale Strike, Typhoon Flurry, Shoulder Tackle, Ascending Blow, Exploding Fist, Chain Fist, Dominance, Impact Hit |
-
-These are node-availability lists, not an exact cheapest-path order. The best route depends on which nodes you already own, how many points you have and which skill levels your gear and Arcana already provide.
+Use the [Brawler Daevanion Selection Grid](DAEVANION_GRID.md) for priority skill-node targets and their board coordinates. It marks destinations, not a fixed shortest path.
 
 ### Practical routing order
 
-1. On each early board, identify the nearest level-up nodes for **Ascending Blow, Exploding Fist, Rampage, Chain Fist, Flurry and Roundhouse**.
-2. Prefer a short path that also picks up useful Attack, Precision, Combat Speed or Cooldown Reduction nodes.
-3. Add **Dominance, Rampage Amplification, Impact Hit** and other core passives when the route is efficient.
-4. On the level-45 PvE track, favor PvE Accuracy until reliable hits are secured, then PvE Attack, Boss Attack and PvE / Boss Damage Boost.
-5. Keep the level-45 PvP board separate from the PvE plan. Azphel is explicitly oriented around PvP stats.
-
-The [Daevanion planner](https://gamewith.ai/aion2/en/daevanion-planner) can compare routes. The [DVG Brawler board list](https://aion2.dvg.cn/en/daevanion_board_list.php?category=%E6%8B%B3%E6%98%9F) links to each board's node map:
-
-- [Nezekan](https://aion2.dvg.cn/en/daevanion_board_info.php?id=91) · [Zikel](https://aion2.dvg.cn/en/daevanion_board_info.php?id=92) · [Vaizel](https://aion2.dvg.cn/en/daevanion_board_info.php?id=93) · [Triniel](https://aion2.dvg.cn/en/daevanion_board_info.php?id=94)
-- [Ariel](https://aion2.dvg.cn/en/daevanion_board_info.php?id=95) · [Azphel](https://aion2.dvg.cn/en/daevanion_board_info.php?id=96) · [Marchutan](https://aion2.dvg.cn/en/daevanion_board_info.php?id=97) · [Yustiel](https://aion2.dvg.cn/en/daevanion_board_info.php?id=98)
+Follow the connected path from the nodes you already own. Prefer a short route that reaches a core skill level and provides useful stats on the way. The exact cheapest route depends on your current board state and point budget.
 
 ### Node costs
 

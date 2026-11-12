@@ -4,7 +4,7 @@
 
 **FemboyDev Field Notes 001-A** · Taiwan server · Reviewed 12 November 2026
 
-> **Quick-copy page:** skill targets, specialization starting points, stigma picks, Arcana and macro layout. Open [Content Builds](CONTENT_BUILDS.md) for encounter swaps, [Skills and Specializations](SKILLS.md) for skill details, [Arcana Guide](ARCANA.md) for card choices, [Gear and Daevanion](GEAR_DAEVANION.md) for progression, or [English Resources for Taiwan](ENGLISH_RESOURCES.md) for source links.
+> **Quick-copy page:** skill targets, specialization starting points, stigma picks, Arcana and macro layout. Open [Content Builds](CONTENT_BUILDS.md) for encounter swaps, [Skills and Specializations](SKILLS.md) for skill details, [Arcana Guide](ARCANA.md) for card choices, [Gear and Daevanion](GEAR_DAEVANION.md) for progression, or the [Daevanion Selection Grid](DAEVANION_GRID.md) for board targets.
 
 **Patch status:** Taiwan's 11 November update changed Rampage and several specializations. This page reflects those changes. Older guides may show obsolete cooldown and macro advice.
 
