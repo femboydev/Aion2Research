@@ -10,100 +10,65 @@ Skill names use English-language AION 2 database translations. Some databases us
 
 > **Patch warning:** Taiwan received a major Brawler update on 11 November 2026. Older player builds are still useful for understanding the class, but several specialization effects and macro assumptions changed. The current-patch corrections are called out below.
 
-## Contents
+**Jump to:** [Build card](#build-card) · [Skills](#skill-reference) · [Leveling](#skill-progression) · [Specializations](#specializations) · [Arcana](#arcana) · [Rotation](#pve-rotation) · [Macros](#macros-and-combat-support) · [Patch notes](#patch-history-and-outdated-advice) · [Sources](#sources-and-research-notes)
 
-- [Class Summary](#class-summary)
-- [Core Mechanics](#core-mechanics)
-- [Skill Reference](#skill-reference)
-- [Skill Icon Gallery](#skill-icon-gallery)
-- [Skill Progression](#skill-progression)
+## Build Card
+
+| | Recommended PvE starting point |
+|---|---|
+| **Loop** | Flurry → Roundhouse → Chain Fist; use Typhoon Flurry if it fits your setup. |
+| **Burst** | Ferocity + Phantom + Pulverize → Rampage → Ascending Blow or Exploding Fist during Martial Arts. |
+| **Skills** | Bring core skills toward 16, then prioritize Ascending Blow, Exploding Fist, Rampage and Chain Fist toward 20. |
+| **Arcana** | Work toward four Punishment pieces; keep two flexible for strong skill rolls or survival. |
+| **Manual inputs** | Rampage, burst attacks, Focused Block and movement. |
+
+> **Current version:** Taiwan, researched through **12 November 2026**. The 11 November update changed Rampage and several specializations.
+
+<details>
+<summary>Contents</summary>
+
+- [Class summary](#class-summary)
+- [Core mechanics](#core-mechanics)
+- [Skill reference and icons](#skill-reference)
+- [Skill progression](#skill-progression)
 - [Specializations](#specializations)
 - [Arcana](#arcana)
-- [PvE Rotation](#pve-rotation)
-- [Rotation Infographic](#rotation-infographic)
+- [PvE rotation](#pve-rotation)
 - [Macros and Combat Support](#macros-and-combat-support)
-- [Macro Infographic](#macro-infographic)
-- [PvP Notes](#pvp-notes)
-- [Patch History and Outdated Advice](#patch-history-and-outdated-advice)
-- [Sources and Research Notes](#sources-and-research-notes)
+- [PvP notes](#pvp-notes)
+- [Patch history](#patch-history-and-outdated-advice)
+- [Sources and research notes](#sources-and-research-notes)
 
-## Quick Start
+</details>
 
-| If you only need… | Start here |
-|---|---|
-| A safe boss setup | Use the [single-target priority](#single-target-boss-priority). Keep Flurry, Roundhouse and Chain Fist in the filler macro; use burst and defense manually. |
-| Skill investments | Raise core skills toward level 16, then work toward level 20 on Ascending Blow, Exploding Fist, Rampage and Chain Fist. See [Skill Progression](#skill-progression). |
-| Arcana direction | Build toward four Punishment pieces with two flexible pieces, but compare skill rolls before forcing the set. See [Arcana](#arcana). |
-| Current patch changes | Read [Current-Patch Changes](#current-patch-changes). The 11 November update changed Rampage and several specializations. |
-| Macro setup | Use [Macro A](#macro-a-basic-single-target-cycle) for fillers; leave Rampage, burst attacks, blocks and movement manual. |
-
-> **FemboyDev build note:** cute colors, serious uptime. This is a player-maintained reference, not an official class endorsement or a claim of a universal best build.
+> **FemboyDev build note:** cute colors, serious uptime. This is a player-maintained reference, not an official guide or a claim of a universal best build.
 
 ---
 
 ## Class Summary
 
-**Brawler** is a close-range damage class built around **Rage**, **Rampage**, frontal attacks and short burst windows.
+**Brawler** is a melee damage class whose output depends on keeping Rage flowing, timing Rampage and exploiting brief Martial Arts windows.
 
-| Topic | Summary |
+| What works | What can break the cycle |
 |---|---|
-| Role | Melee damage |
-| Main resource | Rage |
-| Core state | Rampage |
-| Main damage pattern | Repeated melee attacks, frontal positioning and short burst windows |
-| Main risk | Boss mechanics can force movement or downtime, disrupting Rage and attack uptime |
-| Recommended approach | Keep the basic cycle moving, time burst skills with buffs, and use defense manually |
+| Sustained attacks while the boss stays in range | Forced movement, control effects or downtime can interrupt Rage and Rampage uptime. |
+| Frontal damage and Rage-generating attacks | Front positioning may conflict with boss mechanics. Move when unsafe. |
+| Manual blocks can reward good timing | The current Focused Block window is short, so do not automate it. |
 
-### Strengths
-
-- Strong sustained melee damage while the target remains in range.
-- Rage-generating attacks support the Rampage cycle.
-- Focused Block can reward good timing with counterattacks and cooldown benefits.
-- The November 2026 patch added short, high-value Martial Arts windows to the damage plan.
-
-### Weaknesses
-
-- Many attacks favor frontal damage, which can conflict with boss mechanics.
-- Close-range play makes movement and positioning especially important.
-- Rampage depends on Rage and attack uptime. Using it immediately before a forced movement phase can waste its value.
-- Brawler is not a class where an unattended macro should handle the entire fight.
-
-**Positioning rule:** attack from the front when safe. Move out of dangerous attacks even if it costs damage.
+**Positioning rule:** front when safe, dodge when necessary, then return to the boss. Do not trade a death for frontal uptime.
 
 ---
 
 ## Core Mechanics
 
-### Rage
+| Mechanic | Practical rule |
+|---|---|
+| **Rage** | Build it with attacks; **Exploding Fist** is a key damage and recovery skill. Avoid wasting recovery near cap or letting Rage run out unnoticed. |
+| **Rampage** | Activate when you can stay in melee. Since 11 November, its cooldown is **15 seconds** and the fifth specialization can trigger Martial Arts. |
+| **Frontal damage** | Stay in front only when safe. Never eat a boss attack just to keep the frontal bonus. |
+| **Martial Arts** | Rampage's fifth specialization and a successful Shoulder Tackle can trigger a brief window. Use **Ascending Blow** or **Exploding Fist** during it. |
 
-Brawler builds Rage through attacks and skills. **Exploding Fist** is especially important because it contributes both damage and Rage recovery.
-
-Avoid two extremes:
-
-- Do not use every Rage-generating skill while already near the Rage cap.
-- Do not wait until Rampage is about to end before thinking about Rage recovery.
-
-Rage needs vary with skill levels, Arcana, equipment, cooldowns and time away from the boss. Observe your own Rage drain and recovery rather than relying on an old fixed Rage target.
-
-### Rampage
-
-**Rampage** is the center of Brawler's damage cycle. Use it when you expect to remain in melee and attack, rather than activating it automatically whenever it is ready.
-
-The Taiwan patch on **11 November 2026** changed Rampage's cooldown from 10 seconds to **15 seconds**. Its fifth specialization was also changed: instead of reducing all skill cooldowns during Rampage, it now grants a brief **Martial Arts** effect when Rampage is cast.
-
-### Frontal Damage
-
-Brawler's kit favors attacks from the front. Hold a frontal position when the encounter allows it, but do not take a boss attack just to preserve frontal uptime.
-
-### Martial Arts
-
-The 11 November patch made short Martial Arts windows a key part of Brawler's burst:
-
-- Rampage's fifth specialization can grant Martial Arts when Rampage is cast.
-- Hitting with **Shoulder Tackle** grants a brief Martial Arts effect.
-- During Martial Arts, **Ascending Blow** and **Exploding Fist** receive a large PvE damage increase. The Taiwan patch notes state a 150% PvE damage increase and a 50% PvP damage increase during the effect.
-
-The window is short. Have a high-value attack ready before triggering it. Do not assume you can fit both Ascending Blow and Exploding Fist into every window; use the one that is ready and most likely to land before the effect expires.
+> The Taiwan patch notes list Martial Arts bonuses for Ascending Blow and Exploding Fist. The window is short, so prioritize the attack that is ready and will land in time. Do not assume both fit every window.
 
 ---
 
@@ -114,6 +79,9 @@ English skill translations vary slightly between databases. For example, the bas
 ### Skill Icon Gallery
 
 The icons below are linked from the public [AION 2 Brawler skill database](https://aion2.dvg.cn/en/skill_list.php?category=%E6%8B%B3%E6%98%9F). They are externally hosted game-reference images, not files stored in this guide. The names beneath each icon use the English database labels.
+
+<details>
+<summary>Open the full skill icon gallery</summary>
 
 #### Core Active Skills
 
@@ -145,6 +113,8 @@ The icons below are linked from the public [AION 2 Brawler skill database](https
 | ![Revitalization Contract icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/e6/ICON_GT_SKILL_Passive_009.png) | Revitalization Contract | ![Lightweight icon](https://aion2.dvg.cn/dbsource/tw/125/images/skills/3a/ICON_GT_SKILL_Passive_010.png) | Lightweight |
 
 Other Brawler skill icons are available from the linked database. The icon source is maintained externally, so a source-site change could break the images.
+
+</details>
 
 ### Core Active Skills
 
@@ -216,23 +186,19 @@ Skill levels come from several systems, including normal skill investment, Daeva
 
 ### Practical Milestones
 
-1. Bring core skills toward **level 16** where practical, to reach an important specialization breakpoint.
-2. Work toward **level 20** on skills central to your build, especially Rampage, Ascending Blow, Exploding Fist, Chain Fist, Flurry and Roundhouse.
-3. Continue improving frequently used buffs and passives, especially Rampage Amplification, Dominance and Impact Hit.
-4. Check your Arcana, gear and Daevanion bonuses before spending resources to raise a skill further.
+1. **Reach 16:** Flurry, Roundhouse, Exploding Fist, Ascending Blow, Chain Fist and Rampage.
+2. **Push toward 20:** Ascending Blow, Exploding Fist, Rampage and Chain Fist.
+3. **Then improve:** Ferocity, Phantom, Pulverize and the offensive passives.
+4. Check Arcana, gear and Daevanion bonuses before spending more resources on a skill. If Rage or survival is your bottleneck, prioritize Massive Rage or defensive skills instead of more damage ranks.
 
-### Simple Upgrade Order for a Developing Character
-
-1. Raise **Flurry, Roundhouse, Exploding Fist, Ascending Blow, Chain Fist and Rampage** toward level 16.
-2. Raise **Ascending Blow, Exploding Fist, Rampage and Chain Fist** toward level 20.
-3. Improve **Ferocity, Phantom and Pulverize**, then the basic attack pair and key passives.
-4. If Rage is the limiting factor, consider **Massive Rage**. If survival is the limiting factor, invest in the relevant defensive skills instead of continuing to chase damage levels.
-
-An early Taiwan player build specifically recommended **Flurry 20, Roundhouse 20, Exploding Fist 20, Chain Fist 20, Rampage 20 and Ascending Blow 16**. This is a useful progression reference, but it predates the November changes. Do not treat level 16 as a reason to stop improving Ascending Blow if it is one of your main damage skills and you have the resources to raise it further.
+An early Taiwan player build used Flurry 20, Roundhouse 20, Exploding Fist 20, Chain Fist 20, Rampage 20 and Ascending Blow 16. Treat that as an old progression example, not a reason to stop leveling Ascending Blow.
 
 ### Taiwan Build Statistics
 
-A third-party tracker sampled **1,080 Taiwan Brawlers** from level-50 characters using official character data gathered on **7 October 2026**. Average skill levels among sampled characters who had learned each skill included:
+<details>
+<summary>Show the October Taiwan skill-level sample</summary>
+
+Third-party tracker sample: **1,080 Taiwan Brawlers**, based on official character data gathered on **7 October 2026**. These are average levels among sampled characters who had learned each skill.
 
 | Skill | Average level |
 |---|---:|
@@ -261,6 +227,8 @@ A third-party tracker sampled **1,080 Taiwan Brawlers** from level-50 characters
 
 These are observed high-combat-power character averages, not a leveling order or a guaranteed best build. The sample predates the 11 November patch.
 
+</details>
+
 ---
 
 ## Specializations
@@ -269,18 +237,20 @@ Skill Specializations change how an active skill works. Work toward the skill-le
 
 ### Current-Patch Changes
 
-The Taiwan update of **11 November 2026** changed the following effects:
-
-- **Flurry attack chain, fourth specialization:** changed from reducing Ascending Blow's cooldown on hit to increasing skill critical rate. Do not select it for the removed cooldown reduction.
-- **Rampage:** cooldown increased from 10 to **15 seconds**.
-- **Rampage fifth specialization:** changed from reducing all skill cooldowns during Rampage to granting a short Martial Arts effect when Rampage is cast.
-- **Exploding Fist fifth specialization:** changed to increase damage against targets immune to incapacitation effects.
-- **Focused Block:** duration shortened from 2 to **1 second**, cooldown reduced from 20 to **10 seconds**, and successful blocks now reduce its cooldown.
-- **Gale Strike:** an earlier patch changed one specialization to move Brawler in front of the target. Treat it as movement utility, not the old damage effect.
+| Skill | Current change | What to do |
+|---|---|---|
+| **Flurry attack chain, specialization 4** | Cooldown reduction for Ascending Blow was replaced with skill critical rate. | Do not select it for the removed cooldown effect. |
+| **Rampage** | Cooldown is now **15 seconds**. Specialization 5 grants a short Martial Arts window on cast. | Plan a high-value hit after casting. |
+| **Exploding Fist, specialization 5** | Adds damage against targets immune to incapacitation. | Consider it for bosses with that immunity. |
+| **Focused Block** | 1-second block, 10-second cooldown; successful blocks reduce cooldown. | Time it manually. |
+| **Gale Strike** | An earlier patch changed one specialization to move Brawler in front of the target. | Treat it as movement utility, not the old damage effect. |
 
 ### Player-Tested Starting Choices
 
-The following numbered choices come from player testing published before the latest patch. They are starting points, not a claim that every choice remains optimal.
+<details>
+<summary>Show older player-tested specialization starting points</summary>
+
+These numbered choices predate the latest patch. Treat them as starting points and confirm each effect in the Taiwan client.
 
 | Skill | Previously recommended setup | Current-patch note |
 |---|---|---|
@@ -296,6 +266,8 @@ The following numbered choices come from player testing published before the lat
 | **Shoulder Tackle** | **2 / 4** | Older player testing favored range and cooldown utility; its Martial Arts trigger also makes a hit valuable. |
 
 For survival, earlier player testing recommended swapping a Rage-recovery choice on Flurry or Typhoon Flurry for a life-absorption option. That can be sensible in difficult content, but compare the current tooltip and your actual healing needs.
+
+</details>
 
 ---
 
@@ -331,47 +303,30 @@ Do not treat “four Punishment plus two” as a universal best-in-slot build. I
 
 ### Skill-Roll Priorities
 
-**Parchment and Scales**
-
-1. Ascending Blow
-2. Exploding Fist
-3. Rampage
-4. Chain Fist
-5. Flurry
-
-**Bell**
-
-1. Rampage Amplification
-2. Frontal Breakthrough
-3. Impact Blow
-
-**Mirror**
-
-1. Dominance
-2. Impact Hit
-3. Massive Rage, if Rage sustain is a problem
-
-**Compass**
-
-This pool contains more utility and mobility skills. Consider it when the card has a useful set bonus or a strong skill roll for your content.
-
-**Chalice**
-
-Its wide skill pool makes it flexible. Keep it if it has a strong core-skill or passive roll.
+| Arcana | Look for these Brawler rolls |
+|---|---|
+| **Parchment / Scales** | Ascending Blow, Exploding Fist, Rampage, Chain Fist, Flurry |
+| **Bell** | Rampage Amplification, Frontal Breakthrough, Impact Blow |
+| **Mirror** | Dominance, Impact Hit; Massive Rage if Rage sustain is a problem |
+| **Compass** | Utility and movement skills; keep it for a useful skill roll or set bonus |
+| **Chalice** | Flexible broad pool; keep a strong core-skill or passive roll |
 
 ### Common Stat Targets
 
-A Taiwan player discussion described this general offensive direction:
+| Arcana | Common offensive stat target |
+|---|---|
+| **Chalice** | Time |
+| **Compass** | Death |
+| **Bell** | Destruction |
+| **Mirror** | Wisdom |
+| **Scales** | Destruction and Destiny |
 
-- **Chalice:** Time
-- **Compass:** Death
-- **Bell:** Destruction
-- **Mirror:** Wisdom
-- **Scales:** Destruction and Destiny
-
-This is a player-reported stat strategy, not an official rule. Compare the stat, skill level and set bonus together.
+These are player-reported targets, not official rules. Compare the stat, skill level and set bonus together.
 
 ### Taiwan Arcana Sample
+
+<details>
+<summary>Show October card usage from the Taiwan sample</summary>
 
 In the 7 October character sample, frequently used Arcana included:
 
@@ -387,6 +342,8 @@ In the 7 October character sample, frequently used Arcana included:
 | Mirror of Protection | 6% |
 
 This is usage frequency, not a ranking of card strength. The data predates the 11 November skill changes.
+
+</details>
 
 ---
 
@@ -423,7 +380,8 @@ Avoid spending movement skills just before a boss mechanic that will force you a
 
 ### Rotation Infographic
 
-GitHub renders this Mermaid flowchart as a diagram:
+<details>
+<summary>Open the rotation diagram</summary>
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"primaryColor":"#eee4f6","primaryTextColor":"#2b2034","primaryBorderColor":"#765395","lineColor":"#a987d5","secondaryColor":"#f7f2fb","tertiaryColor":"#f7eaf1"}}}%%
@@ -444,6 +402,8 @@ flowchart TD
     J -- No --> L[Maintain Rage and repeat the priority]
     L --> C
 ```
+
+</details>
 
 ---
 
@@ -481,6 +441,9 @@ Those skills need timing or judgment. A macro can waste Exploding Fist or Ascend
 
 ### Macro B: Buff Preparation
 
+<details>
+<summary>Show the optional buff sequence</summary>
+
 If the in-game system supports a separate ordered sequence, use this as a **buff setup**, not an unattended loop:
 
 ```text
@@ -491,6 +454,8 @@ Rampage
 ```
 
 Check that each skill is ready before starting the sequence. With the current Rampage fifth specialization, casting Rampage can start a short Martial Arts window. Follow it manually with a high-value attack.
+
+</details>
 
 ### Manual Burst Sequence
 
@@ -506,6 +471,9 @@ If **Shoulder Tackle** is needed to reach the boss, a successful hit can trigger
 
 ### Macro C: Area Filler
 
+<details>
+<summary>Show the area filler sequence</summary>
+
 For groups, a simple area-oriented priority can be:
 
 ```text
@@ -517,6 +485,8 @@ Roundhouse
 ```
 
 Leave movement and control skills manual. If the macro spends an area skill after enemies have moved or spread out, remove that skill from the automatic sequence.
+
+</details>
 
 ### Manual Defensive Controls
 
@@ -544,6 +514,9 @@ A Taiwan player macro setup used **Typhoon Flurry** as part of the repeating cyc
 
 ### Macro Infographic
 
+<details>
+<summary>Open the macro diagram</summary>
+
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"primaryColor":"#eee4f6","primaryTextColor":"#2b2034","primaryBorderColor":"#765395","lineColor":"#a987d5","secondaryColor":"#f7f2fb","tertiaryColor":"#f7eaf1"}}}%%
 flowchart LR
@@ -557,6 +530,8 @@ flowchart LR
     G --> J[Align attacks with Martial Arts]
     H --> J
 ```
+
+</details>
 
 ---
 
@@ -576,6 +551,9 @@ The PvE skill and Arcana priorities above are not intended as a finished PvP bui
 
 ## Patch History and Outdated Advice
 
+<details>
+<summary>Expand patch timeline and retired recommendations</summary>
+
 | Update | Relevant Brawler change |
 |---|---|
 | **8 July 2026** | Blood Flow Block received a life-absorption effect. |
@@ -592,9 +570,16 @@ The PvE skill and Arcana priorities above are not intended as a finished PvP bui
 - Do not assume Gale Strike's old fourth-specialization damage effect is still present.
 - Do not copy an early ultra-fast macro without testing it under the newer skill-cancellation rules.
 
+</details>
+
 ---
 
 ## Sources and Research Notes
+
+<details>
+<summary>Expand source list and data caveats</summary>
+
+**How to weigh the sources:** official Taiwan patch notes take priority for live effects; databases provide English labels and Arcana pools; player builds provide tested starting points, not universal best-in-slot answers. Build statistics are snapshots, not recommendations.
 
 - [Official Taiwan Brawler skill guide](https://tw.ncsoft.com/aion2/guidebook/view?title=%E6%8B%B3%E6%98%9F%E6%8A%80%E8%83%BD)
 - [Official Taiwan update, 11 November 2026](https://tw.ncsoft.com/aion2/board/update/view?articleId=6af393e028c745263507304c)
@@ -610,9 +595,14 @@ The PvE skill and Arcana priorities above are not intended as a finished PvP bui
 
 **Data caveat:** Taiwan build and Arcana statistics were gathered on 7 October, before the 11 November Brawler changes. Use them to understand established investment patterns, not as a post-patch ranking. Arcana probability data may also vary by region.
 
+</details>
+
 ---
 
 ## FemboyDev Guide Notes
+
+<details>
+<summary>About this guide</summary>
 
 - **Guide owner:** FemboyDev
 - **Guide type:** independent player reference
@@ -621,3 +611,5 @@ The PvE skill and Arcana priorities above are not intended as a finished PvP bui
 - **Visual identity:** warm paper, plum, orchid and blush, chosen for a readable, friendly developer-notes style.
 - **Skill icons:** externally hosted by the linked public skill database. If an icon stops loading, use the database link in the [Skill Icon Gallery](#skill-icon-gallery).
 - **Diagrams:** Mermaid source is embedded in this Markdown file and is rendered natively by GitHub.
+
+</details>
